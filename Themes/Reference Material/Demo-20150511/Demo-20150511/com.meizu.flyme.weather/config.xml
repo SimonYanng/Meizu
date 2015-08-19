@@ -1,0 +1,53 @@
+﻿<meizu_theme_values>
+    <!--说明
+     ★★★★★★以dp和sp为单位，好处就是大家只需要制作一套XML文件，就可以适配各个flyme4.0机型的天气小部件。★★★★★★
+     ★★★★MX4 Pro换算 1dp = 4px   MX4 换算 1dp = 3px   MX3 换算 1dp = 2.5px   MX2 换算 1dp = 2px★★★★
+     ★★★天气背景请覆盖对应图片文件，如果不覆盖就默认为透明效果即相当于不显示。★★★
+     ★★新增自由图片参数，默认自由图片为左上角位置，且内容是在最底下,即当前温度或者城市文字会遮挡在最上面。请配合自由图片制作全新小部件效果。★★
+     ★left为距离左边的距离★
+     ★top为距离上面的距离以dp为单位★
+     ★textsize字体大小以sp为单位★
+     ★textcolor颜色（必须为6位数颜色或者8位数颜色。否则颜色不会发生变化）★
+     ★visibility控件是否显示:true显示，false为不显示★
+     ★★★以下为默认参数★★★
+      -->
+    <!--温度参数-->
+    <temperature
+        left="0"
+        top="16"
+        textcolor="#FFFFFF"
+        textsize="58"
+        visibility="true"/>
+    <!--温度℃图片参数-->
+    <temperature_degree
+        left="0"
+        top="8"
+        visibility="true"/>
+    <!--天气当前城市名字参数-->
+    <cityName
+        left="120"
+        top="32"
+        textcolor="#FFFFFF"
+        textsize="16"
+        visibility="true"/>
+    <!--天气状况参数-->
+    <weatherDescribe
+        left="120"
+        top="50"
+        textcolor="#FFFFFF"
+        textsize="16"
+        visibility="true"/>
+    <!--天气图像参数-->
+    <weatherImage
+       left="280"
+        top="21"
+        visibility="true"/>
+    <!--自由图像参数-->
+    <weatherFreeImage
+        left="0"
+        top="0"
+        visibility="false"/>
+
+</meizu_theme_values>
+
+

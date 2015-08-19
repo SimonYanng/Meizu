@@ -1,0 +1,52 @@
+<KeyguardThemes>
+
+<!--
+说明：
+其中
+top：时间资源上下移动距离；
+left：时间资源左右移动的距离
+dateTop：日期距离时间的距离；
+dateLeft：日期左右移动的距离；
+都可为负数，负数表示上移或左移
+-->
+<KeyguardThemeSlide>
+
+    <!-- 滑动解锁时间参数，*数字请覆盖相关图片文件* -->
+    <keyguard_time
+            left="0"
+            horizontal="true"
+            top="0"/>
+    <!-- 滑动解锁日期参数 -->
+    <keyguard_date
+            dateFontColor="#000000"
+            dateFontSize="14"
+            left="0"
+            top="23"
+            horizontal="true"/>
+    <!-- 滑动解锁解锁文字/图标，*isIcon表示是否为图片，如果是图片请覆盖相关图片文件* -->
+    <keyguard_unlock
+            isIcon="false"
+            unlockText="向上滑动解锁"/>
+</KeyguardThemeSlide>
+
+<KeyguardThemeSecurity>
+
+    <!-- 密码解锁时间参数，*数字请覆盖相关图片文件* -->
+    <keyguard_time
+            left="0"
+            horizontal="true"
+            top="0"/>
+    <!-- 密码解锁日期参数 -->
+    <keyguard_date
+            dateFontColor="#000000"
+            dateFontSize="14"
+            left="0"
+            top="23"
+            horizontal="true"/>
+</KeyguardThemeSecurity>
+
+<meizu_theme_values>
+    <color name="unlock_text_color">#99ff0000</color>  
+</meizu_theme_values>
+
+</KeyguardThemes>

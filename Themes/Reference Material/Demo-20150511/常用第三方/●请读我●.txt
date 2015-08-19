@@ -1,0 +1,2 @@
+1、将制作好的第三方放至icons文件夹中。
+2、第三方包名获取方法：打开http://www.wandoujia.com/apps/com.tencent.mobileqq  可以发现，在豌豆荚网站中打开任意一个应用，链接的最后一段就是包名。

@@ -1,0 +1,21 @@
+<meizu_theme_values>
+<color name="mms_editor_sms_count_color">#B3000000</color>
+<color name="msg_time_color">#B3000000</color>
+<color name="recv_msg_body_text_color">#B3000000</color>
+<color name="recv_charge_title_color">#B3000000</color>
+<color name="send_msg_body_text_color">#B3000000</color>
+<color name="send_msg_subject_text_color">#B3000000</color>
+<color name="recv_msg_subject_text_color">#B3000000</color>
+<color name="send_msg_attachment_name">#B3000000</color>
+<color name="send_msg_attachment_size">#B3000000</color>
+<color name="recv_msg_attachment_name">#B3000000</color>
+<color name="recv_msg_attachment_size">#B3000000</color>
+<color name="mms_rich_editor_subject_color">#B3000000</color>
+<color name="mms_rich_editor_content_color">#B3000000</color>
+<color name="mms_editor_attachment_name_color">#B3000000</color>
+<color name="mms_editor_attachment_size_color">#B3000000</color>
+<color name="cma_custom_contact_drawtextshadow_color">#B3000000</color>
+<color name="mz_action_bar_title_color">#B3000000</color>
+<color name="mz_action_bar_subtitle_color">#B3000000</color>
+</meizu_theme_values>
+
