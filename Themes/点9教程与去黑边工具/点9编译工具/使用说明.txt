@@ -1,7 +1,0 @@
-1.把预处理黑边的图片到目录example1\res\drawable-hdpi下
-2.双击xUltimate-d9pc.exe，听到电脑滴的一声，即可完成去黑边（此时的9.png图片内部加载了黑边信息）
-3.根目下会自动生成done文件，在done\example1\res\drawable-hdpi下，就是我们经过处理的9.PNG图片
-
-这个图片就是我们要美化替换的图片
-
-备注：编译过程可能会出现编译不同过的问题，请使用M9 SDk中的draw9patch.bat进行.9制作
