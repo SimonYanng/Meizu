@@ -1,0 +1,6 @@
+<meizu_theme_values>
+    <color name="workspace_icon_text_color">#FFFFFFFF</color>
+    <color name="folder_items_text_color">#CC000000</color>
+    <config name="statusbar_color">true</config>
+</meizu_theme_values>
+

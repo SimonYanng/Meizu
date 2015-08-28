@@ -1,9 +1,0 @@
-<meizu_theme_values>
-    <config name="draw_date">true</config>
-    <config name="draw_icon_shadow">true</config>
-    <config name="calendar_dayofweek_color">#FF424242</config>
-	<config name="statusbar_color">true</config>
-    <config name="draw_bg_shadow">false</config>
-</meizu_theme_values>
-
-
