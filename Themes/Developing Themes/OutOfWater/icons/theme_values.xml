@@ -1,0 +1,5 @@
+<meizu_theme_values>
+    <config name="draw_date">true</config>
+    <config name="draw_icon_shadow">true</config>
+    <config name="calendar_dayofweek_color">#FFFFFFFF</config>
+</meizu_theme_values>
